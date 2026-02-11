@@ -21,13 +21,5 @@ public class MathUtilTest {
         double expectedvalue=inputvalue*-1;
         assertEquals(expectedvalue, actualabsvalue, 0.0005);
     }
-    @Test
-    public void TestCalculatorpositive(){
-        double a= 3;
-        double b= 5;
-
-
-    }
-
 
 }
